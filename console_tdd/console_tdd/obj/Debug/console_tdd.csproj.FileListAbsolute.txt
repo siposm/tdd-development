@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\bin\Debug\console_tdd.exe.config
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\bin\Debug\console_tdd.exe
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\bin\Debug\console_tdd.pdb
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\obj\Debug\console_tdd.csproj.CoreCompileInputs.cache
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\obj\Debug\console_tdd.exe
+C:\Users\sm\Desktop\tdd-development\console_tdd\console_tdd\obj\Debug\console_tdd.pdb
